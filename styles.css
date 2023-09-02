@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+.container{
+    width: 250px;
+    height: 450px;
+    background-color: whitesmoke;
+    margin-top: 150px;
+    margin-left: 200px
+}
+#img{
+    width: 180px;
+    margin-top: 30px;
+    margin-left: 35px;
+}
+#heading{
+    text-align: center;
+    /* margin-top: 5px;
+    margin-bottom: 5px; */
+    
+    }
+#price{
+    text-align: center;
+    /* margin-top: 5px;
+    margin-bottom: 5px; */
+}
+#para{
+    text-align: center;
+    /* margin-top: 5px;
+    margin-bottom: 5px; */
+}
+#btn{
+    margin-left: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #FE625A;
+    border-color: #FE625A;
+    border-radius: 10px;
+    color: white;
+}
